@@ -1,3 +1,3 @@
 # hello-world
 
-Hello fellow humnans!
+Hello fellow humans!
